@@ -7,15 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="common" />
-        <module name="springbootconfig2" />
-        <module name="springbootfast1" />
+        <module name="springboot-config-2" />
+        <module name="springboot-fast-1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="base-core" target="1.7" />
       <module name="common" target="1.7" />
-      <module name="springbootconfig2" target="1.8" />
-      <module name="springbootfast1" target="1.8" />
+      <module name="springboot-config-2" target="1.8" />
+      <module name="springboot-fast-1" target="1.8" />
       <module name="springbootLearn" target="1.7" />
     </bytecodeTargetLevel>
   </component>
