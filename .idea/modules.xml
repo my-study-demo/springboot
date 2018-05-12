@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/springbootconfig2/springboot-config-2.iml" filepath="$PROJECT_DIR$/springbootconfig2/springboot-config-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootfast1/springboot-fast-1.iml" filepath="$PROJECT_DIR$/springbootfast1/springboot-fast-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootLearn.iml" filepath="$PROJECT_DIR$/springbootLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootredismessage/springbootredismessage.iml" filepath="$PROJECT_DIR$/springbootredismessage/springbootredismessage.iml" />
     </modules>
   </component>
 </project>

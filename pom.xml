@@ -12,6 +12,7 @@
         <module>springbootfast1</module>
         <module>springbootconfig2</module>
         <module>common</module>
+        <module>springbootredismessage</module>
     </modules>
 
     <name>springbootLearn</name>
