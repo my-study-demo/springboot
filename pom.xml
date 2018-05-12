@@ -13,6 +13,7 @@
         <module>springbootconfig2</module>
         <module>common</module>
         <module>springbootredismessage</module>
+        <module>springbootjms</module>
     </modules>
 
     <name>springbootLearn</name>
@@ -33,12 +34,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.11</version>
-            <scope>test</scope>
-        </dependency>
     </dependencies>
 
     <build>
