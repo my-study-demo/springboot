@@ -9,6 +9,7 @@
         <module name="common" />
         <module name="springboot-config-2" />
         <module name="springboot-fast-1" />
+        <module name="springboot-with-docker" />
         <module name="springbootjms" />
         <module name="springbootredismessage" />
       </profile>
@@ -18,6 +19,7 @@
       <module name="restdocs" target="1.7" />
       <module name="springboot-config-2" target="1.8" />
       <module name="springboot-fast-1" target="1.8" />
+      <module name="springboot-with-docker" target="1.7" />
       <module name="springbootjms" target="1.7" />
       <module name="springbootLearn" target="1.7" />
       <module name="springbootredismessage" target="1.7" />
