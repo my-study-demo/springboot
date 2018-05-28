@@ -10,7 +10,6 @@
         <module name="springboot-config-2" />
         <module name="springboot-fast-1" />
         <module name="springboot-with-docker" />
-        <module name="springbootjms" />
         <module name="springbootredismessage" />
       </profile>
     </annotationProcessing>

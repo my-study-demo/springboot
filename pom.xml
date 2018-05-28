@@ -13,7 +13,6 @@
         <module>springbootconfig2</module>
         <module>common</module>
         <module>springbootredismessage</module>
-        <module>springbootjms</module>
         <module>springboot-with-docker</module>
     </modules>
 
