@@ -9,12 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>springboot-with-docker</module>
-        <module>first</module>
-        <module>config</module>
-        <module>redis-message</module>
         <module>commons</module>
         <module>components</module>
+        <module>samples</module>
     </modules>
 
     <name>springbootLearn</name>
