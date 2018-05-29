@@ -9,6 +9,13 @@
 *.iml
 .idea
 
+#some local files
+*/.settings/
+*/.DS_Store
+.DS_Store
+*/.idea/
+.idea/
+
 # Eclipse project files #
 .settings
 .project
