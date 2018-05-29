@@ -9,12 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>springbootfast1</module>
-        <module>springbootconfig2</module>
-        <module>common</module>
-        <module>components</module>
-        <module>springbootredismessage</module>
         <module>springboot-with-docker</module>
+        <module>first</module>
+        <module>config</module>
+        <module>redis-message</module>
+        <module>commons</module>
+        <module>components</module>
     </modules>
 
     <name>springbootLearn</name>
@@ -29,19 +29,23 @@
     </parent>
 
     <properties>
+        <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
-
-    <dependencies>
-    </dependencies>
 
     <build>
         <plugins>
             <plugin>
                 <artifactId>maven-clean-plugin</artifactId>
                 <version>3.0.0</version>
+            </plugin>
+            <plugin><!--打包跳过测试有两种方法  等同 mvn clean package -Dmaven.test.skip=true -->
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.4.2</version>
+                <configuration>
+                    <skipTests>true</skipTests>
+                </configuration>
             </plugin>
         </plugins>
     </build>

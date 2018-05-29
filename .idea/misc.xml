@@ -46,8 +46,12 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/redisMessage/pom.xml" />
         <option value="$PROJECT_DIR$/restdocs/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootconfig2/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootfast1/pom.xml" />
         <option value="$PROJECT_DIR$/springbootjms/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootredismessage/pom.xml" />
       </set>
     </option>
   </component>

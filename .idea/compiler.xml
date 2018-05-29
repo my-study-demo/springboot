@@ -6,27 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common" />
         <module name="components" />
-        <module name="springboot-config-2" />
-        <module name="springboot-fast-1" />
-        <module name="springboot-jms" />
-        <module name="springboot-redis-message" />
+        <module name="config" />
+        <module name="first" />
+        <module name="logback" />
+        <module name="redis-message" />
         <module name="springboot-with-docker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="base-core" target="1.7" />
-      <module name="common" target="1.7" />
-      <module name="components" target="1.7" />
-      <module name="springboot-config-2" target="1.8" />
-      <module name="springboot-fast-1" target="1.8" />
-      <module name="springboot-jms" target="1.7" />
-      <module name="springboot-redis-message" target="1.7" />
-      <module name="springboot-with-docker" target="1.7" />
-      <module name="springbootconfig2" target="1.8" />
-      <module name="springbootfast1" target="1.8" />
-      <module name="springbootLearn" target="1.7" />
+      <module name="common" target="1.8" />
+      <module name="commons" target="1.8" />
+      <module name="components" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="first" target="1.8" />
+      <module name="logback" target="1.8" />
+      <module name="redis-message" target="1.8" />
+      <module name="springboot-with-docker" target="1.8" />
+      <module name="springbootLearn" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
