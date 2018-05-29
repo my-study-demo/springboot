@@ -16,6 +16,7 @@
         <module>first</module>
         <module>redis-message</module>
         <module>springboot-with-docker</module>
+        <module>druid</module>
     </modules>
 
 </project>
