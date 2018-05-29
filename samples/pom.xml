@@ -18,6 +18,7 @@
         <module>springboot-with-docker</module>
         <module>druid</module>
         <module>message-converter</module>
+        <module>interceptor</module>
     </modules>
 
 </project>

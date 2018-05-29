@@ -3,18 +3,21 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/common/logback" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commons" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commons/logback" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/first" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/redis-message" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/redisMessage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/first" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/message-converter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/redis-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/springboot-with-docker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-with-docker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springbootconfig2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springbootfast1" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springbootjms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springbootredismessage" charset="UTF-8" />
   </component>
 </project>

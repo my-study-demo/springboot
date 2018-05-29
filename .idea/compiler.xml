@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="components" />
         <module name="config" />
+        <module name="demo" />
+        <module name="druid" />
         <module name="first" />
+        <module name="interceptor" />
         <module name="logback" />
+        <module name="message-converter" />
         <module name="redis-message" />
         <module name="springboot-with-docker" />
       </profile>
@@ -19,9 +22,14 @@
       <module name="commons" target="1.8" />
       <module name="components" target="1.8" />
       <module name="config" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="druid" target="1.8" />
       <module name="first" target="1.8" />
+      <module name="interceptor" target="1.8" />
       <module name="logback" target="1.8" />
+      <module name="message-converter" target="1.8" />
       <module name="redis-message" target="1.8" />
+      <module name="samples" target="1.8" />
       <module name="springboot-with-docker" target="1.8" />
       <module name="springbootLearn" target="1.8" />
     </bytecodeTargetLevel>
