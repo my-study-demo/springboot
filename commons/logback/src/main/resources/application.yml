@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.kely: 'On' #日志开关

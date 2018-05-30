@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class FirstApplication {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(FirstApplication.class);
+    private static final Logger logger = LoggerFactory.getLogger(FirstApplication.class);
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(FirstApplication.class, args);
@@ -19,6 +19,9 @@ public class FirstApplication {
 
     @GetMapping
     public String hello(){
+        logger.info("------>info");
+        logger.debug("------->debug");
+        logger.error("-------->error");
         return "hello world!";
     }
 }
