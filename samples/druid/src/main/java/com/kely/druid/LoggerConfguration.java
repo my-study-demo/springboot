@@ -17,6 +17,7 @@ public class LoggerConfguration extends WebMvcConfigurerAdapter {
 
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
+        //静态文件放到resources/static
         registry.addInterceptor(loggerInterceptor()).addPathPatterns("/**");
         super.addInterceptors(registry);
     }

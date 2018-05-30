@@ -28,9 +28,9 @@
     
 - druid
 
-    >druid数据库监控
-    使用拦截器记录你的SpringBoot的请求日志
-    
+    >1、druid数据库监控
+    2、使用拦截器记录你的SpringBoot的请求日志
+    3、自定义静态资源文件路径
 - message-converter
 
     >fastjson消息转换器
