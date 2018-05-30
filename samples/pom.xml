@@ -19,6 +19,7 @@
         <module>druid</module>
         <module>message-converter</module>
         <module>interceptor</module>
+        <module>data-validator</module>
     </modules>
 
 </project>
