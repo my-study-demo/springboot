@@ -15,7 +15,7 @@ public class IndexController {
 //    private MessageSource messageSource;
 
     @RequestMapping(value = "/validator")
-    public String validator(@Validated DemoEntity entity) {
+    public String validator(@Valid DemoEntity entity) {
         return "验证通过，" + "名称：" + entity.getName() + "年龄：" + entity.getAge() + "邮箱地址：" + entity.getMail();
     }
 
