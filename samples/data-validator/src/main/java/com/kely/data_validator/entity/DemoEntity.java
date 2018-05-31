@@ -8,17 +8,16 @@ import org.hibernate.validator.constraints.NotBlank;
 import javax.validation.constraints.Min;
 import java.io.Serializable;
 
-public class DemoEntity implements Serializable
-{
+public class DemoEntity implements Serializable {
     @NotBlank
-    @Length(min = 2,max = 10)
+    @Length(min = 2, max = 10, message = "姓名字数长度必须在2和10之间")
     private String name;
 
-    @Min(value = 1)
+    @Min(value = 1, message = "年龄最小1")
     private int age;
 
-    @NotBlank
-    @Email
+    @NotBlank(message = "邮箱地址不能为空")
+    @Email(message = "请输入合法邮箱地址")
     private String mail;
 
     @FlagValidator(values = "1,2,3")

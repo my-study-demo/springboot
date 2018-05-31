@@ -5,6 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.validation.BindException;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.ObjectError;
+import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
@@ -36,18 +37,12 @@ public class GlobalExceptionHandler {
      */
     @ExceptionHandler(value = BindException.class)
     public String bindExceptionHandler(BindException e) {
-        StringBuilder message = new StringBuilder();
-        BindingResult bindingResult = e.getBindingResult();
-        if (bindingResult.hasErrors()) {
-            for (ObjectError objectError : bindingResult.getAllErrors()) {
-                if (message.length() > 0) {
-                    message.append("|");
-                }
-                // 收集错误信息
-                message.append(objectError.getDefaultMessage());
-            }
-        }
-        return "参数验证失败，" + message.toString();
+        return "参数验证失败，" + getErrorMsg(e.getBindingResult());
+    }
+
+    @ExceptionHandler(value = MethodArgumentNotValidException.class)
+    public String methodArgumentNotValidExceptionHandler(MethodArgumentNotValidException e){
+        return "参数验证失败，" + getErrorMsg(e.getBindingResult());
     }
 
     /**
@@ -60,7 +55,7 @@ public class GlobalExceptionHandler {
         StringBuilder message = new StringBuilder();
         Set<ConstraintViolation<?>> constraintViolations = e.getConstraintViolations();
         Iterator<ConstraintViolation<?>> constraintViolationIterator = constraintViolations.iterator();
-        if (constraintViolationIterator.hasNext()) {
+        while (constraintViolationIterator.hasNext()) {
             ConstraintViolation<?> constraintViolation = constraintViolationIterator.next();
             if (message.length() > 0) {
                 message.append("|");
@@ -69,5 +64,19 @@ public class GlobalExceptionHandler {
             message.append(constraintViolation.getMessage());
         }
         return "参数验证失败，" + message.toString();
+    }
+
+    private String getErrorMsg(BindingResult bindingResult){
+        StringBuilder message = new StringBuilder();
+        if (bindingResult.hasErrors()) {
+            for (ObjectError objectError : bindingResult.getAllErrors()) {
+                if (message.length() > 0) {
+                    message.append("|");
+                }
+                // 收集错误信息
+                message.append(objectError.getDefaultMessage());
+            }
+        }
+        return message.toString();
     }
 }
