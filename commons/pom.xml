@@ -13,7 +13,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>logback</module>
-        <module>framework-web</module>
     </modules>
 
 
