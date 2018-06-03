@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/samples/interceptor/interceptor.iml" filepath="$PROJECT_DIR$/samples/interceptor/interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/logback/logback.iml" filepath="$PROJECT_DIR$/commons/logback/logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/message-converter/message-converter.iml" filepath="$PROJECT_DIR$/samples/message-converter/message-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/oAuth2/oAuth2.iml" filepath="$PROJECT_DIR$/samples/oAuth2/oAuth2.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/redis-message/redis-message.iml" filepath="$PROJECT_DIR$/samples/redis-message/redis-message.iml" />
       <module fileurl="file://E:\kely\workspaces\study\springboot\redis-message\redis-message.iml" filepath="E:\kely\workspaces\study\springboot\redis-message\redis-message.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/samples.iml" filepath="$PROJECT_DIR$/samples/samples.iml" />

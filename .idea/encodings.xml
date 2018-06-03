@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/samples/first" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/interceptor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/message-converter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/oAuth2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/redis-message" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/spring-security" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/springboot-with-docker" charset="UTF-8" />

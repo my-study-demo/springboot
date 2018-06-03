@@ -15,6 +15,7 @@
         <module name="interceptor" />
         <module name="logback" />
         <module name="message-converter" />
+        <module name="oAuth2" />
         <module name="redis-message" />
         <module name="spring-security" />
         <module name="springboot-with-docker" />
@@ -33,6 +34,7 @@
       <module name="interceptor" target="1.8" />
       <module name="logback" target="1.8" />
       <module name="message-converter" target="1.8" />
+      <module name="oAuth2" target="1.8" />
       <module name="redis-message" target="1.8" />
       <module name="samples" target="1.8" />
       <module name="spring-security" target="1.8" />
