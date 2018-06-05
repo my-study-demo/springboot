@@ -2,27 +2,29 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:\kely\workspaces\study\springboot\common\common.iml" filepath="E:\kely\workspaces\study\springboot\common\common.iml" />
+      <module fileurl="file://E:/kely/workspaces/study/springboot/common/common.iml" filepath="E:/kely/workspaces/study/springboot/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/components/components.iml" filepath="$PROJECT_DIR$/components/components.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/config/config.iml" filepath="$PROJECT_DIR$/samples/config/config.iml" />
-      <module fileurl="file://E:\kely\workspaces\study\springboot\config\config.iml" filepath="E:\kely\workspaces\study\springboot\config\config.iml" />
+      <module fileurl="file://E:/kely/workspaces/study/springboot/config/config.iml" filepath="E:/kely/workspaces/study/springboot/config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/data-validator/data-validator.iml" filepath="$PROJECT_DIR$/samples/data-validator/data-validator.iml" />
       <module fileurl="file://$PROJECT_DIR$/components/demo/demo.iml" filepath="$PROJECT_DIR$/components/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/docker-demo/docker-demo.iml" filepath="$PROJECT_DIR$/samples/docker-demo/docker-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/druid/druid.iml" filepath="$PROJECT_DIR$/samples/druid/druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/first/first.iml" filepath="$PROJECT_DIR$/samples/first/first.iml" />
-      <module fileurl="file://E:\kely\workspaces\study\springboot\first\first.iml" filepath="E:\kely\workspaces\study\springboot\first\first.iml" />
+      <module fileurl="file://E:/kely/workspaces/study/springboot/first/first.iml" filepath="E:/kely/workspaces/study/springboot/first/first.iml" />
       <module fileurl="file://$PROJECT_DIR$/components/framework-web/framework-web.iml" filepath="$PROJECT_DIR$/components/framework-web/framework-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/interceptor/interceptor.iml" filepath="$PROJECT_DIR$/samples/interceptor/interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/logback/logback.iml" filepath="$PROJECT_DIR$/commons/logback/logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/message-converter/message-converter.iml" filepath="$PROJECT_DIR$/samples/message-converter/message-converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/oAuth2/oAuth2.iml" filepath="$PROJECT_DIR$/samples/oAuth2/oAuth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/redis-cache/redis-cache.iml" filepath="$PROJECT_DIR$/samples/redis-cache/redis-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/redis-message/redis-message.iml" filepath="$PROJECT_DIR$/samples/redis-message/redis-message.iml" />
-      <module fileurl="file://E:\kely\workspaces\study\springboot\redis-message\redis-message.iml" filepath="E:\kely\workspaces\study\springboot\redis-message\redis-message.iml" />
+      <module fileurl="file://E:/kely/workspaces/study/springboot/redis-message/redis-message.iml" filepath="E:/kely/workspaces/study/springboot/redis-message/redis-message.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/samples.iml" filepath="$PROJECT_DIR$/samples/samples.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/samples/spring-security/spring-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/springboot-with-docker/springboot-with-docker.iml" filepath="$PROJECT_DIR$/samples/springboot-with-docker/springboot-with-docker.iml" />
-      <module fileurl="file://E:\kely\workspaces\study\springboot\springboot-with-docker\springboot-with-docker.iml" filepath="E:\kely\workspaces\study\springboot\springboot-with-docker\springboot-with-docker.iml" />
+      <module fileurl="file://E:/kely/workspaces/study/springboot/springboot-with-docker/springboot-with-docker.iml" filepath="E:/kely/workspaces/study/springboot/springboot-with-docker/springboot-with-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootLearn.iml" filepath="$PROJECT_DIR$/springbootLearn.iml" />
     </modules>
   </component>
