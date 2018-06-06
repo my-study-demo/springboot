@@ -14,6 +14,7 @@
         <module name="first" />
         <module name="framework-web" />
         <module name="interceptor" />
+        <module name="jwt" />
         <module name="logback" />
         <module name="message-converter" />
         <module name="oAuth2" />
@@ -35,6 +36,7 @@
       <module name="first" target="1.8" />
       <module name="framework-web" target="1.8" />
       <module name="interceptor" target="1.8" />
+      <module name="jwt" target="1.8" />
       <module name="logback" target="1.8" />
       <module name="message-converter" target="1.8" />
       <module name="oAuth2" target="1.8" />

@@ -23,6 +23,7 @@
         <module>spring-security</module>
         <module>oAuth2</module>
         <module>docker-demo</module>
+        <module>jwt</module>
     </modules>
 
 </project>
