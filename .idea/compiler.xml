@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="config" />
+        <module name="cosr" />
         <module name="data-validator" />
         <module name="demo" />
         <module name="docker-demo" />
@@ -29,6 +30,7 @@
       <module name="commons" target="1.8" />
       <module name="components" target="1.8" />
       <module name="config" target="1.8" />
+      <module name="cosr" target="1.8" />
       <module name="data-validator" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="docker-demo" target="1.8" />

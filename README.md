@@ -50,3 +50,7 @@
 - data-validator
 
     >请求参数校验
+    
+- cosr
+
+    >跨域处理

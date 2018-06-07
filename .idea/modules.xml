@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/components/components.iml" filepath="$PROJECT_DIR$/components/components.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/config/config.iml" filepath="$PROJECT_DIR$/samples/config/config.iml" />
       <module fileurl="file://E:\kely\workspaces\study\springboot\config\config.iml" filepath="E:\kely\workspaces\study\springboot\config\config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/cosr/cosr.iml" filepath="$PROJECT_DIR$/samples/cosr/cosr.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/data-validator/data-validator.iml" filepath="$PROJECT_DIR$/samples/data-validator/data-validator.iml" />
       <module fileurl="file://$PROJECT_DIR$/components/demo/demo.iml" filepath="$PROJECT_DIR$/components/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/docker-demo/docker-demo.iml" filepath="$PROJECT_DIR$/samples/docker-demo/docker-demo.iml" />
