@@ -25,6 +25,8 @@
         <module>docker-demo</module>
         <module>jwt</module>
         <module>cosr</module>
+        <module>scheduled-demo</module>
+        <module>event-demo</module>
     </modules>
 
     <dependencies>

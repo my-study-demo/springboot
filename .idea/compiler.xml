@@ -12,6 +12,7 @@
         <module name="demo" />
         <module name="docker-demo" />
         <module name="druid" />
+        <module name="event-demo" />
         <module name="first" />
         <module name="framework-web" />
         <module name="interceptor" />
@@ -21,6 +22,7 @@
         <module name="oAuth2" />
         <module name="redis-cache" />
         <module name="redis-message" />
+        <module name="scheduled-demo" />
         <module name="spring-security" />
         <module name="springboot-with-docker" />
       </profile>
@@ -35,6 +37,7 @@
       <module name="demo" target="1.8" />
       <module name="docker-demo" target="1.8" />
       <module name="druid" target="1.8" />
+      <module name="event-demo" target="1.8" />
       <module name="first" target="1.8" />
       <module name="framework-web" target="1.8" />
       <module name="interceptor" target="1.8" />
@@ -45,6 +48,7 @@
       <module name="redis-cache" target="1.8" />
       <module name="redis-message" target="1.8" />
       <module name="samples" target="1.8" />
+      <module name="scheduled-demo" target="1.8" />
       <module name="spring-security" target="1.8" />
       <module name="springboot-with-docker" target="1.8" />
       <module name="springbootLearn" target="1.8" />
