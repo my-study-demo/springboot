@@ -42,9 +42,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/samples/oAuth2/pom.xml" />
         <option value="$PROJECT_DIR$/samples/redis-cache/pom.xml" />
-        <option value="$PROJECT_DIR$/samples/spring-security/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

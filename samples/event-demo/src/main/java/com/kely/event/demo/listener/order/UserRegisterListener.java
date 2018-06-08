@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * 有序
  */
-@Component
+//@Component
 public class UserRegisterListener implements SmartApplicationListener {
     /**
      * 该方法返回true&supportsSourceType同样返回true时，才会调用该监听内的onApplicationEvent方法

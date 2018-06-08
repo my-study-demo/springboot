@@ -67,5 +67,5 @@
     >   * @EventListener注解方法
     >   * 集成ApplicationListener，泛型，无序
     >   * SmartApplicationListener，泛型，有序
-    > * 异步（@Async）
-    >   * 
+    > * 异步（@EnableAsync、@Async）
+    >   * UserRegisterSendMailListener
