@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/samples/springboot-with-docker/springboot-with-docker.iml" filepath="$PROJECT_DIR$/samples/springboot-with-docker/springboot-with-docker.iml" />
       <module fileurl="file://E:\kely\workspaces\study\springboot\springboot-with-docker\springboot-with-docker.iml" filepath="E:\kely\workspaces\study\springboot\springboot-with-docker\springboot-with-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootLearn.iml" filepath="$PROJECT_DIR$/springbootLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/test-autoconfigure-demo/test-autoconfigure-demo.iml" filepath="$PROJECT_DIR$/samples/test-autoconfigure-demo/test-autoconfigure-demo.iml" />
     </modules>
   </component>
 </project>

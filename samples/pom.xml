@@ -27,6 +27,7 @@
         <module>cosr</module>
         <module>scheduled-demo</module>
         <module>event-demo</module>
+        <module>test-autoconfigure-demo</module>
     </modules>
 
     <dependencies>

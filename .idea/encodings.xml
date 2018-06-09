@@ -24,5 +24,6 @@
     <file url="file://$PROJECT_DIR$/samples/scheduled-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/spring-security" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/springboot-with-docker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/test-autoconfigure-demo" charset="UTF-8" />
   </component>
 </project>
