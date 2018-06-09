@@ -4,19 +4,16 @@
     <modules>
       <module fileurl="file://E:\kely\workspaces\study\springboot\common\common.iml" filepath="E:\kely\workspaces\study\springboot\common\common.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/components/components.iml" filepath="$PROJECT_DIR$/components/components.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/config/config.iml" filepath="$PROJECT_DIR$/samples/config/config.iml" />
       <module fileurl="file://E:\kely\workspaces\study\springboot\config\config.iml" filepath="E:\kely\workspaces\study\springboot\config\config.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/cosr/cosr.iml" filepath="$PROJECT_DIR$/samples/cosr/cosr.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/data-validator/data-validator.iml" filepath="$PROJECT_DIR$/samples/data-validator/data-validator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/components/demo/demo.iml" filepath="$PROJECT_DIR$/components/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/docker-demo/docker-demo.iml" filepath="$PROJECT_DIR$/samples/docker-demo/docker-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/druid/druid.iml" filepath="$PROJECT_DIR$/samples/druid/druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/event-demo/event-demo.iml" filepath="$PROJECT_DIR$/samples/event-demo/event-demo.iml" />
       <module fileurl="file://E:\kely\workspaces\study\springboot\samples\event-demo\event-demo.iml" filepath="E:\kely\workspaces\study\springboot\samples\event-demo\event-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/first/first.iml" filepath="$PROJECT_DIR$/samples/first/first.iml" />
       <module fileurl="file://E:\kely\workspaces\study\springboot\first\first.iml" filepath="E:\kely\workspaces\study\springboot\first\first.iml" />
-      <module fileurl="file://$PROJECT_DIR$/components/framework-web/framework-web.iml" filepath="$PROJECT_DIR$/components/framework-web/framework-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/interceptor/interceptor.iml" filepath="$PROJECT_DIR$/samples/interceptor/interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/jwt/jwt.iml" filepath="$PROJECT_DIR$/samples/jwt/jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/logback/logback.iml" filepath="$PROJECT_DIR$/commons/logback/logback.iml" />
