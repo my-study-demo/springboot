@@ -69,3 +69,6 @@
     >   * SmartApplicationListener，泛型，有序
     > * 异步（@EnableAsync、@Async）
     >   * UserRegisterSendMailListener
+    
+- test-autoconfigure-demo
+    >AutoConfiguration自定义Starter，组件开发，测试组件调用
