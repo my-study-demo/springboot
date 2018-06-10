@@ -34,7 +34,7 @@
     
 - message-converter
 
-    >fastjson消息转换器
+    >fastjson消息转换器[WebMvcConfigurerAdapter配置类说明](https://www.jianshu.com/p/2c2cdb80fe47)
     
 - springboot-with-docker
 
@@ -42,7 +42,7 @@
     
 - interceptor
 
-    >拦截器（模拟登录token认证）
+    >拦截器（模拟登录token认证）[WebMvcConfigurerAdapter配置类说明](https://www.jianshu.com/p/2c2cdb80fe47)
     
 - jwt
 
