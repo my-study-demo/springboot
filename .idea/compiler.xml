@@ -9,6 +9,7 @@
         <module name="common" />
         <module name="config" />
         <module name="consumer" />
+        <module name="consumer-node2" />
         <module name="cosr" />
         <module name="data-validator" />
         <module name="docker-demo" />
@@ -30,11 +31,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="argument-resolver" target="1.8" />
       <module name="common" target="1.8" />
       <module name="commons" target="1.8" />
       <module name="components" target="1.8" />
       <module name="config" target="1.8" />
       <module name="consumer" target="1.8" />
+      <module name="consumer-node2" target="1.8" />
       <module name="cosr" target="1.8" />
       <module name="data-validator" target="1.8" />
       <module name="demo" target="1.8" />
@@ -49,6 +52,8 @@
       <module name="message-converter" target="1.8" />
       <module name="oAuth2" target="1.8" />
       <module name="provider" target="1.8" />
+      <module name="quartz-demo" target="1.8" />
+      <module name="quartz-first" target="1.8" />
       <module name="rabbitmq-demo" target="1.8" />
       <module name="redis-cache" target="1.8" />
       <module name="redis-message" target="1.8" />
