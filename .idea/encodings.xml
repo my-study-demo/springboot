@@ -4,9 +4,6 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commons" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commons/logback" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/components" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/components/demo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/components/framework-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/cosr" charset="UTF-8" />
@@ -19,6 +16,11 @@
     <file url="file://$PROJECT_DIR$/samples/jwt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/message-converter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/oAuth2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/common/provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/redis-cache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/redis-message" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/scheduled-demo" charset="UTF-8" />

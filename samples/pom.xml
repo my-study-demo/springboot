@@ -28,6 +28,7 @@
         <module>scheduled-demo</module>
         <module>event-demo</module>
         <module>test-autoconfigure-demo</module>
+        <module>rabbitmq-demo</module>
     </modules>
 
     <dependencies>

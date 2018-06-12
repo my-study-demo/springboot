@@ -53,6 +53,8 @@
         <option value="$PROJECT_DIR$/components111/pom.xml" />
         <option value="$PROJECT_DIR$/redisMessage/pom.xml" />
         <option value="$PROJECT_DIR$/restdocs/pom.xml" />
+        <option value="$PROJECT_DIR$/samples/rabbitmq-demo/common/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/samples/rabbitmq-demo/pom.xml" />
         <option value="$PROJECT_DIR$/samples/request-log/pom.xml" />
         <option value="$PROJECT_DIR$/springbootconfig2/pom.xml" />
         <option value="$PROJECT_DIR$/springbootfast1/pom.xml" />
