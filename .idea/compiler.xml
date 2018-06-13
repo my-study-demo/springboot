@@ -15,6 +15,8 @@
         <module name="docker-demo" />
         <module name="druid" />
         <module name="event-demo" />
+        <module name="exception-core" />
+        <module name="exception-example" />
         <module name="first" />
         <module name="interceptor" />
         <module name="jwt" />
@@ -34,30 +36,27 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="argument-resolver" target="1.8" />
       <module name="common" target="1.8" />
       <module name="commons" target="1.8" />
-      <module name="components" target="1.8" />
       <module name="config" target="1.8" />
       <module name="consumer" target="1.8" />
       <module name="consumer-node2" target="1.8" />
       <module name="cosr" target="1.8" />
       <module name="data-validator" target="1.8" />
-      <module name="demo" target="1.8" />
       <module name="direct" target="1.8" />
       <module name="docker-demo" target="1.8" />
       <module name="druid" target="1.8" />
       <module name="event-demo" target="1.8" />
+      <module name="exception-core" target="1.8" />
+      <module name="exception-example" target="1.8" />
+      <module name="exception-handle-demo" target="1.8" />
       <module name="first" target="1.8" />
-      <module name="framework-web" target="1.8" />
       <module name="interceptor" target="1.8" />
       <module name="jwt" target="1.8" />
       <module name="logback" target="1.8" />
       <module name="message-converter" target="1.8" />
       <module name="oAuth2" target="1.8" />
       <module name="provider" target="1.8" />
-      <module name="quartz-demo" target="1.8" />
-      <module name="quartz-first" target="1.8" />
       <module name="rabbitmq-demo" target="1.8" />
       <module name="redis-cache" target="1.8" />
       <module name="redis-message" target="1.8" />

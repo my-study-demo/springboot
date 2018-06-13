@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/samples/rabbitmq-demo/direct/common/common.iml" filepath="$PROJECT_DIR$/samples/rabbitmq-demo/direct/common/common.iml" />
-      <module fileurl="file://E:/kely/workspaces/study/springbootLearn/springboot/samples/rabbitmq-demo/common/common.iml" filepath="E:/kely/workspaces/study/springbootLearn/springboot/samples/rabbitmq-demo/common/common.iml" />
       <module fileurl="file://E:/kely/workspaces/study/springboot/common/common.iml" filepath="E:/kely/workspaces/study/springboot/common/common.iml" />
+      <module fileurl="file://E:/kely/workspaces/study/springbootLearn/springboot/samples/rabbitmq-demo/common/common.iml" filepath="E:/kely/workspaces/study/springbootLearn/springboot/samples/rabbitmq-demo/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/config/config.iml" filepath="$PROJECT_DIR$/samples/config/config.iml" />
       <module fileurl="file://E:/kely/workspaces/study/springboot/config/config.iml" filepath="E:/kely/workspaces/study/springboot/config/config.iml" />
@@ -19,6 +19,9 @@
       <module fileurl="file://$PROJECT_DIR$/samples/druid/druid.iml" filepath="$PROJECT_DIR$/samples/druid/druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/event-demo/event-demo.iml" filepath="$PROJECT_DIR$/samples/event-demo/event-demo.iml" />
       <module fileurl="file://E:/kely/workspaces/study/springboot/samples/event-demo/event-demo.iml" filepath="E:/kely/workspaces/study/springboot/samples/event-demo/event-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/exception-handle-demo/exception-core/exception-core.iml" filepath="$PROJECT_DIR$/samples/exception-handle-demo/exception-core/exception-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/exception-handle-demo/exception-example/exception-example.iml" filepath="$PROJECT_DIR$/samples/exception-handle-demo/exception-example/exception-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/exception-handle-demo/exception-handle-demo.iml" filepath="$PROJECT_DIR$/samples/exception-handle-demo/exception-handle-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/first/first.iml" filepath="$PROJECT_DIR$/samples/first/first.iml" />
       <module fileurl="file://E:/kely/workspaces/study/springboot/first/first.iml" filepath="E:/kely/workspaces/study/springboot/first/first.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/interceptor/interceptor.iml" filepath="$PROJECT_DIR$/samples/interceptor/interceptor.iml" />

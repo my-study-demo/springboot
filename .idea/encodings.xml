@@ -11,6 +11,9 @@
     <file url="file://$PROJECT_DIR$/samples/docker-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/druid" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/event-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/exception-handle-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/exception-handle-demo/exception-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/exception-handle-demo/exception-example" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/first" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/interceptor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/jwt" charset="UTF-8" />

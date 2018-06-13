@@ -29,6 +29,7 @@
         <module>event-demo</module>
         <module>test-autoconfigure-demo</module>
         <module>rabbitmq-demo</module>
+        <module>exception-handle-demo</module>
     </modules>
 
     <dependencies>

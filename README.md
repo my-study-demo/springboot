@@ -75,3 +75,6 @@
     
 - rabbitmq-demo
     >基于SpringBoot项目整合RabbitMQ消息队列
+    
+- com.kely.exception
+    >基于SpringBoot平台构建业务逻辑异常统一处理，异常消息内容格式化。
