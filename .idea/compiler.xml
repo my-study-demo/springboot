@@ -28,6 +28,9 @@
         <module name="spring-security" />
         <module name="springboot-with-docker" />
         <module name="test-autoconfigure-demo" />
+        <module name="topic-common" />
+        <module name="topic-consumer" />
+        <module name="topic-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -64,6 +67,10 @@
       <module name="springboot-with-docker" target="1.8" />
       <module name="springbootLearn" target="1.8" />
       <module name="test-autoconfigure-demo" target="1.8" />
+      <module name="topic" target="1.8" />
+      <module name="topic-common" target="1.8" />
+      <module name="topic-consumer" target="1.8" />
+      <module name="topic-provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

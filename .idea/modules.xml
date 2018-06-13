@@ -42,6 +42,10 @@
       <module fileurl="file://E:/kely/workspaces/study/springboot/springboot-with-docker/springboot-with-docker.iml" filepath="E:/kely/workspaces/study/springboot/springboot-with-docker/springboot-with-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootLearn.iml" filepath="$PROJECT_DIR$/springbootLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/test-autoconfigure-demo/test-autoconfigure-demo.iml" filepath="$PROJECT_DIR$/samples/test-autoconfigure-demo/test-autoconfigure-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic.iml" filepath="$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-common/topic-common.iml" filepath="$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-common/topic-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-consumer/topic-consumer.iml" filepath="$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-consumer/topic-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-provider/topic-provider.iml" filepath="$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-provider/topic-provider.iml" />
     </modules>
   </component>
 </project>

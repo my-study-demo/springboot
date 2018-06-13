@@ -22,6 +22,10 @@
     <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/direct/consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/direct/consumer-node2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/direct/provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/rabbitmq-demo/topic/topic-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/redis-cache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/redis-message" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/scheduled-demo" charset="UTF-8" />
