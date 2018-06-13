@@ -41,6 +41,7 @@
       <module name="cosr" target="1.8" />
       <module name="data-validator" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="direct" target="1.8" />
       <module name="docker-demo" target="1.8" />
       <module name="druid" target="1.8" />
       <module name="event-demo" target="1.8" />

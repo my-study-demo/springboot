@@ -74,4 +74,4 @@
     >AutoConfiguration自定义Starter，组件开发，测试组件调用
     
 - rabbitmq-demo
-    >基于SpringBoot项目整合RabbitMQ消息队列，完成DirectExchange（路由键）分布式消息消费。
+    >基于SpringBoot项目整合RabbitMQ消息队列
